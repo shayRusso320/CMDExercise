@@ -10,11 +10,9 @@ mkdir %scripts%\second\%first_name%_%last_name%
 
 mkdir %scripts%\second\%first_name%_%last_name%\Logs
 
-
 echo %time% %date% > C:\Log.txt
 copy C:\Log.txt %scripts%\second\%first_name%_%last_name%\Logs
 del C:\Log.txt
-
 
 echo ALL DONE!
 pause
