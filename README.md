@@ -1,2 +1,0 @@
-# CMDExercise
-cmd exercise

@@ -1,2 +1,0 @@
-tasklist
-taskkill /PID 16776
