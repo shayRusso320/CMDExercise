@@ -1,0 +1,1 @@
+dir C:\ > c_dir.txt
